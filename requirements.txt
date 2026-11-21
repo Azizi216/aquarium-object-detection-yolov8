@@ -1,0 +1,9 @@
+ultralytics==8.4.216
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+PyYAML
+opencv-python
